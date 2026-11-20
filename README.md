@@ -1,12 +1,13 @@
 ### Hi there 👋 I'm Yadong (Jordan) Zeng
 
 ```
-██╗   ██╗ █████╗ ██████╗  ██████╗ ███╗   ██╗ ██████╗     ███████╗███████╗███╗   ██╗ ██████╗ 
-╚██╗ ██╔╝██╔══██╗██╔══██╗██╔═══██╗████╗  ██║██╔════╝     ╚══███╔╝██╔════╝████╗  ██║██╔════╝ 
- ╚████╔╝ ███████║██║  ██║██║   ██║██╔██╗ ██║██║  ███╗      ███╔╝ █████╗  ██╔██╗ ██║██║  ███╗
-  ╚██╔╝  ██╔══██║██║  ██║██║   ██║██║╚██╗██║██║   ██║     ███╔╝  ██╔══╝  ██║╚██╗██║██║   ██║
-   ██║   ██║  ██║██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝    ███████╗███████╗██║ ╚████║╚██████╔╝
-   ╚═╝   ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝     ╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
+ __   __  _______  ______   _______  __    _  _______    _______  _______  __    _  _______ 
+|  | |  ||   _   ||      | |       ||  |  | ||       |  |       ||       ||  |  | ||       |
+|  |_|  ||  |_|  ||  _    ||   _   ||   |_| ||    ___|  |____   ||    ___||   |_| ||    ___|
+|       ||       || | |   ||  | |  ||       ||   | __    ____|  ||   |___ |       ||   | __ 
+|_     _||       || |_|   ||  |_|  ||  _    ||   ||  |  | ______||    ___||  _    ||   ||  |
+  |   |  |   _   ||       ||       || | |   ||   |_| |  | |_____ |   |___ | | |   ||   |_| |
+  |___|  |__| |__||______| |_______||_|  |__||_______|  |_______||_______||_|  |__||_______|
 ```
 
 > Computational physicist and software engineer. I write physics solvers that run fast on GPUs, and AI agents that drive them.
@@ -25,8 +26,8 @@
 
 | Project | What it is | |
 |---|---|---|
-| [**IAMReX**](https://github.com/ruohai0925/IAMReX) | Adaptive solver for multiphase flow and fluid–particle interaction on CPUs and GPUs. Creator and lead maintainer. | ![stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fruohai0925%2FIAMReX&query=%24.stargazers_count&label=%E2%98%85&style=flat-square&color=f0c040) |
-| [**Foam-Agent**](https://github.com/csml-rpi/Foam-Agent) | Multi-agent LLM framework that turns a natural-language request into a full OpenFOAM run. Core contributor. | ![stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcsml-rpi%2FFoam-Agent&query=%24.stargazers_count&label=%E2%98%85&style=flat-square&color=f0c040) |
+| [**IAMReX**](https://github.com/ruohai0925/IAMReX) | Adaptive solver for multiphase flow and fluid–particle interaction on CPUs and GPUs. Creator and lead maintainer. | ![stars](https://img.shields.io/github/stars/ruohai0925/IAMReX?style=flat-square&color=f0c040&label=%E2%98%85) |
+| [**Foam-Agent**](https://github.com/csml-rpi/Foam-Agent) | Multi-agent LLM framework that turns a natural-language request into a full OpenFOAM run. Core contributor. | ![stars](https://img.shields.io/github/stars/csml-rpi/Foam-Agent?style=flat-square&color=f0c040&label=%E2%98%85) |
 | [**CFDQandA**](https://cfdqanda.com) | Platform for uploading CFD cases and getting a diagnosis. Built and run solo. | |
 | [**cuda_gpu_for_beginner**](https://github.com/ruohai0925/cuda_gpu_for_beginner) | CUDA programming notes and examples for beginners. | |
 | [**ls2d-baseline**](https://github.com/ruohai0925/ls2d-baseline) | Readable single-core 2D level-set two-phase Navier–Stokes solver. | |
