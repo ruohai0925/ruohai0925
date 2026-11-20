@@ -10,7 +10,7 @@
   |___|  |__| |__||______| |_______||_|  |__||_______|  |_______||_______||_|  |__||_______|
 ```
 
-> Computational physicist and software engineer. I write physics solvers that run fast on GPUs, and AI agents that drive them.
+> Senior software engineer and machine learning lover. I write physics solvers that run fast on GPUs with complex/implicit geometries, and AI agents that drive them.
 >
 > - [![Blog](https://img.shields.io/badge/-Blog-0f7c70?style=flat-square&logo=githubpages&logoColor=white)](https://ruohai0925.github.io/) [![GitHub](https://img.shields.io/badge/-GitHub-232323?style=flat-square&logo=github&logoColor=white)](https://github.com/ruohai0925)
 > - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white) ![MPI](https://img.shields.io/badge/MPI%20%2F%20OpenMP-555555?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-0A4C8B?style=flat-square) ![AMReX](https://img.shields.io/badge/AMReX-1772D0?style=flat-square)
