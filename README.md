@@ -20,7 +20,7 @@
 - 🔬 **Research**: computational fluid dynamics, adaptive mesh refinement, multiphase flow (level set), fluid–structure and fluid–particle interaction (immersed boundary, DEM)
 - ⚡ **Focus**: GPU and heterogeneous parallel computing, real-time simulation
 - 🤖 **AI × simulation**: multi-agent LLM workflows for CFD, benchmarks for AI agents doing physics research
-- 🎓 Ph.D. in Mechanical Engineering, University of Minnesota · M.S. in Computer Science, UT Austin · three summers at Lawrence Berkeley National Lab on AMReX
+- 🎓 Ph.D. in Mechanical Engineering, University of Minnesota · Researcher and M.S. in Computer Science, UT Austin · Visiting scholar with three summers at Lawrence Berkeley National Lab on AMReX
 
 ### 🚀 Featured projects
 
